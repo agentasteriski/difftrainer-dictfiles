@@ -23,16 +23,13 @@ ny	ny
 o	o
 p	p
 py	py
-q	q
 r	r
 ry	ry
 s	s
 sh	sh
 t	t
 ts	ts
-ty	ty
 u	u
-v	v
 w	w
 y	y
 z	z
