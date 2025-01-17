@@ -3,4 +3,4 @@
 
 ## About
 These are meant to be minimal, phoneme only dictionary sets for use in DiffTrainer after the upcoming multi-dictionary DiffSinger update.
-merged.yaml(name may change) is meant to contain only the most basic, universally agreed upon cross-language phoneme merges.
+merged.yaml(name may change) is meant to contain only some basic, universally agreed upon cross-language phoneme merges, primarily as a formatting reference.
